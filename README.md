@@ -1,4 +1,4 @@
 # wordcount
 
 This is my first django project using tutorial from udemy 
-https://www.udemy.com/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website
+https://www.udemy.com/share/1001NsB0ASc1pQRQ==/
